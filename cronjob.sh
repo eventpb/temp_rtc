@@ -1,0 +1,1 @@
+/usr/bin/python3 /home/s59030195/tempSensorRTC/temp_rtc/tempSensorRTC.py
